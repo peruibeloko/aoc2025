@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advent of Code 2025", "Advent of Code 2025.csproj", "{07750997-56FC-44C2-9838-54F3D9BE4E9C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aoc2025", "aoc2025.csproj", "{07750997-56FC-44C2-9838-54F3D9BE4E9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
