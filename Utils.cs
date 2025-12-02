@@ -2,9 +2,12 @@
 
 public class Utils
 {
+    public static readonly string projectDirectory =
+        Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.FullName;
+
     public static string ReadFile(int day, string inputFile)
     {
-        return File.ReadAllText(Path.Join(["src", $"Day{day}", $"{inputFile}.txt"]));
+        return File.ReadAllText(Path.Join([projectDirectory, "src", $"Day{day}", $"{inputFile}.txt"]));
     }
 
     public static string BoxedText(string text)

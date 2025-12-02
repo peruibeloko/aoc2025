@@ -8,60 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9dc08029-d173-4dcd-9244-45a7b1644b7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Utils.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Advent Of Code 2025.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/aoc2025.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aoc2025.sln" beforeDir="false" afterPath="$PROJECT_DIR$/aoc2025.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day1/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day1/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day10/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day10/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day11/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day11/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day12/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day12/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day13/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day13/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day14/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day14/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day15/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day15/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day16/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day16/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day17/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day17/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day18/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day18/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day19/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day19/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day2/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day2/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day20/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day20/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day21/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day21/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day22/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day22/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day23/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day23/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day24/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day24/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day25/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day25/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day3/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day3/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day4/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day4/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day5/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day5/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day6/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day6/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day7/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day7/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day8/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day8/Part2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day9/Part1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day9/Part2.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.advent-of-code-2025/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.advent-of-code-2025/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +36,10 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/ILViewer/bfd507c20f8b4e3194b3ba0421eb61941200/c9/8c6ca01a/02000002pdb1Low.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/6322a2c949e1408c8faf9b86b82127b8e8e910/86/488023e1/Nullable`1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/fd57398b7dc3a8ce7da2786f2c67289c3d974658a9e90d0c1e84db3d965fbf1/Console.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://D:/Arquivos/Projetos/aoc2025/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/Arquivos/Projetos/aoc2025/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://D:/Arquivos/Projetos/aoc2025/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Utils.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
@@ -159,7 +109,9 @@
     <MESSAGE value="init repo" />
     <MESSAGE value="update project name" />
     <MESSAGE value="misc" />
-    <option name="LAST_COMMIT_MESSAGE" value="misc" />
+    <MESSAGE value="structure stuff" />
+    <MESSAGE value="add sources" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sources" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
