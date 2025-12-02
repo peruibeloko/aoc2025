@@ -4,7 +4,6 @@ class Part1
 {
     public static string Solution(String input)
     {
-        Console.WriteLine("");
         int position = 50;
         int password = 0;
         
@@ -14,7 +13,6 @@ class Part1
             var distance = int.Parse(line.Substring(1));
             
             position = Move(position, direction, distance);
-            Console.WriteLine($"position {position}");
 
             if (position == 0) password++;
         }
