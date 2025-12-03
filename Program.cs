@@ -23,8 +23,9 @@ class Program
         Console.Write(", using input file ");
         Utils.ColoredWriteLine($"{inputFile}.txt", ConsoleColor.Yellow);
 
+        var solution = RunSolution(day, part, input);
         Console.Write("Result is ");
-        Utils.ColoredWrite($"{RunSolution(day, part, input)}", ConsoleColor.Yellow);
+        Utils.ColoredWrite($"{solution}", ConsoleColor.Yellow);
     }
 
     private static string RunSolution(int day, int part, string input)
